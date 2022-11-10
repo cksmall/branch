@@ -3,4 +3,8 @@ bbbbbbbbb
 ccccccccc
 6th commit ddddddd
 7th commit db branch
+<<<<<<< HEAD
 8th modif master commit
+=======
+1st modif backend
+>>>>>>> backend
